@@ -1,4 +1,10 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: skyblue;
+}
 h1 {
-  color: skyblue;
+  color: rgb(150, 219, 22);
   font-weight: 800;
 }
